@@ -1,6 +1,6 @@
 {
   "name": "curl-download-windows",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "downloader using curl",
   "main": "app.js",
   "scripts": {
