@@ -1,7 +1,7 @@
 {
-  "name": "curl-download",
-  "version": "1.0.0",
-  "description": "asdfsad",
+  "name": "curl-download-windows",
+  "version": "1.0.1",
+  "description": "downloader using curl",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
